@@ -1,0 +1,249 @@
+LOCUS       Example_DNA              520 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Converted DNA sequence with secondary structure (includes unknown
+            regions).
+ACCESSION   DNA1
+VERSION     DNA1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_binding    1..9
+                     /label="Stem"
+     misc_structure  10..11
+                     /label="Loop"
+     misc_binding    12..16
+                     /label="Stem"
+     misc_structure  17..22
+                     /label="Loop"
+     misc_binding    23..26
+                     /label="Stem"
+     misc_structure  27..33
+                     /label="Loop"
+     misc_binding    34..37
+                     /label="Stem"
+     misc_structure  38
+                     /label="Loop"
+     misc_binding    39..43
+                     /label="Stem"
+     misc_structure  44..46
+                     /label="Loop"
+     misc_binding    47..53
+                     /label="Stem"
+     misc_structure  54..60
+                     /label="Loop"
+     misc_binding    61..64
+                     /label="Stem"
+     misc_structure  65..66
+                     /label="Loop"
+     misc_binding    67..80
+                     /label="Stem"
+     misc_structure  81
+                     /label="Loop"
+     misc_structure  81
+                     /label="Loop"
+     misc_structure  81
+                     /label="Loop"
+     misc_structure  84
+                     /label="Loop"
+     misc_binding    85..98
+                     /label="Stem"
+     misc_structure  99..102
+                     /label="Loop"
+     misc_binding    103..112
+                     /label="Stem"
+     misc_structure  113..116
+                     /label="Loop"
+     misc_binding    117..126
+                     /label="Stem"
+     misc_structure  127
+                     /label="Loop"
+     misc_binding    128..129
+                     /label="Stem"
+     misc_structure  130..142
+                     /label="Loop"
+     misc_binding    143..148
+                     /label="Stem"
+     misc_structure  149
+                     /label="Loop"
+     misc_binding    150..156
+                     /label="Stem"
+     misc_structure  157..159
+                     /label="Loop"
+     misc_binding    160..161
+                     /label="Stem"
+     misc_structure  162
+                     /label="Loop"
+     misc_binding    163..166
+                     /label="Stem"
+     misc_structure  167
+                     /label="Loop"
+     misc_binding    168..173
+                     /label="Stem"
+     misc_structure  174
+                     /label="Loop"
+     misc_binding    175..178
+                     /label="Stem"
+     misc_structure  179
+                     /label="Loop"
+     misc_binding    180..183
+                     /label="Stem"
+     misc_structure  184
+                     /label="Loop"
+     misc_binding    185..202
+                     /label="Stem"
+     misc_structure  203
+                     /label="Loop"
+     misc_structure  203
+                     /label="Loop"
+     misc_structure  203
+                     /label="Loop"
+     misc_structure  206..212
+                     /label="Loop"
+     misc_binding    213..217
+                     /label="Stem"
+     misc_structure  218..222
+                     /label="Loop"
+     misc_binding    223..230
+                     /label="Stem"
+     misc_structure  231..233
+                     /label="Loop"
+     misc_binding    234
+                     /label="Stem"
+     misc_binding    235..243
+                     /label="Stem"
+     misc_structure  244..251
+                     /label="Loop"
+     misc_binding    252..256
+                     /label="Stem"
+     misc_structure  257..266
+                     /label="Loop"
+     misc_binding    267..273
+                     /label="Stem"
+     misc_structure  274
+                     /label="Loop"
+     misc_structure  274
+                     /label="Loop"
+     misc_structure  274
+                     /label="Loop"
+     misc_structure  277..283
+                     /label="Loop"
+     misc_binding    284..290
+                     /label="Stem"
+     misc_structure  291..292
+                     /label="Loop"
+     misc_binding    293..299
+                     /label="Stem"
+     misc_structure  300..304
+                     /label="Loop"
+     misc_binding    305..310
+                     /label="Stem"
+     misc_structure  311
+                     /label="Loop"
+     misc_binding    312..316
+                     /label="Stem"
+     misc_structure  317..318
+                     /label="Loop"
+     misc_binding    319..323
+                     /label="Stem"
+     misc_binding    324
+                     /label="Stem"
+     misc_binding    325..329
+                     /label="Stem"
+     misc_structure  330..336
+                     /label="Loop"
+     misc_structure  330..336
+                     /label="Loop"
+     misc_structure  330..336
+                     /label="Loop"
+     misc_structure  339..340
+                     /label="Loop"
+     misc_feature    341..361
+                     /label="Disordered Linker"
+     misc_structure  362
+                     /label="Loop"
+     misc_structure  362
+                     /label="Loop"
+     misc_structure  362
+                     /label="Loop"
+     misc_structure  365..369
+                     /label="Loop"
+     misc_binding    370..374
+                     /label="Stem"
+     misc_structure  375
+                     /label="Loop"
+     misc_binding    376..379
+                     /label="Stem"
+     misc_structure  380
+                     /label="Loop"
+     misc_binding    381..386
+                     /label="Stem"
+     misc_structure  387..394
+                     /label="Loop"
+     misc_binding    395..398
+                     /label="Stem"
+     misc_structure  399
+                     /label="Loop"
+     misc_binding    400..401
+                     /label="Stem"
+     misc_binding    402..406
+                     /label="Stem"
+     misc_structure  407..416
+                     /label="Loop"
+     misc_binding    417..424
+                     /label="Stem"
+     misc_structure  425
+                     /label="Loop"
+     misc_binding    426..429
+                     /label="Stem"
+     misc_structure  430..441
+                     /label="Loop"
+     misc_binding    442..445
+                     /label="Stem"
+     misc_structure  446..448
+                     /label="Loop"
+     misc_structure  446..448
+                     /label="Loop"
+     misc_structure  446..448
+                     /label="Loop"
+     misc_binding    451..458
+                     /label="Stem"
+     misc_structure  459
+                     /label="Loop"
+     misc_binding    460..464
+                     /label="Stem"
+     misc_structure  465..466
+                     /label="Loop"
+     misc_binding    467..470
+                     /label="Stem"
+     misc_structure  471..474
+                     /label="Loop"
+     misc_binding    475..484
+                     /label="Stem"
+     misc_structure  485..487
+                     /label="Loop"
+     misc_binding    488..491
+                     /label="Stem"
+     misc_structure  492..494
+                     /label="Loop"
+     misc_binding    495..496
+                     /label="Stem"
+     misc_structure  497
+                     /label="Loop"
+     misc_binding    498..502
+                     /label="Stem"
+     misc_structure  503..506
+                     /label="Loop"
+     misc_binding    507..520
+                     /label="Stem"
+ORIGIN
+        1 ggaccgatga agctagtgga tgaggtgtga caagccgcct agccatacga ctcttaataa
+       61 ctactatgac gaaatatacg gatacgttta ttttttctaa tttccacttg ggtagtacta
+      121 attgggagca acgaaaaaag ttgtgtagag agaagcaagg ggactcatat ctgaaactaa
+      181 gacacttgcc gtcagggatt cgcaatatgc catcttcagt taattaaggc tgattacctt
+      241 aggaaccaaa agaagaatat caactaagaa ttcgtgtcgt gaagttgtgg tgacgcaact
+      301 ataactgacg agtaaggttt gagtagccaa aatcgacaat cttacattaa ctggaacatt
+      361 gcacatgttt ggtgaaaatt ggataggaaa agatctatgc cctgaacttg aaatgcggac
+      421 taggtcgtgg aagttgctag ccatgatgtg ctagtctgat tcagtagtct aataagtcca
+      481 gatacaagag tatcccacgt aagccaatac gcgtcggttt
+//
